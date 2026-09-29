@@ -1,15 +1,49 @@
 cff-version: 1.2.0
+
+message: >-
+  If you use or reference BHAIRAV ENGINE, please cite it using the
+  citation information provided in this file.
+
 title: "Bhairav Engine: A Structured Bio-Design Methodology"
+
 type: software
+
 authors:
   - family-names: "Yerra Vishnu Akhil Raj Kumar"
     given-names: ""
+
 year: 2026
-version: "1.0"
-license: "CC-BY-NC-ND-4.0"
+
+version: "1.0.0"
+
 repository-code: "https://github.com/YOUR-USERNAME/bhairav-engine"
-abstract: >
+
+abstract: >-
   BHAIRAV ENGINE (B-ENGINE) is an evidence-aware, human-centered,
   iterative bio-design and innovation methodology for healthcare,
   medical technology, digital health, diagnostics, public health,
-  biomedical engineering and related innovation domains.
+  biomedical engineering, and related innovation domains. It provides
+  a structured approach for moving from a stimulus, need, problem,
+  idea, dataset, technical concept, or desired end product toward
+  structured, testable, evidence-supported, and implementable solutions.
+
+keywords:
+  - "bio-design"
+  - "biodesign"
+  - "healthcare innovation"
+  - "medical devices"
+  - "medical technology"
+  - "digital health"
+  - "public health"
+  - "biomedical engineering"
+  - "innovation methodology"
+  - "evidence-based design"
+
+preferred-citation:
+  type: generic
+  title: "Bhairav Engine: A Structured Bio-Design Methodology"
+  authors:
+    - family-names: "Yerra Vishnu Akhil Raj Kumar"
+      given-names: ""
+  year: 2026
+  copyright: "© 2026 Yerra Vishnu Akhil Raj Kumar. BHAIRAV ENGINE: A Structured Bio-Design Methodology. Copyright Certificate No. LD-20260186628."
